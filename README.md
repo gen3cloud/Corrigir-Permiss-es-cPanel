@@ -28,8 +28,11 @@ chmod +x fixperms.sh
 **Opções**
 
 -h, --help: Exibe a tela de ajuda com as instruções do script.
+
 -a, --account <nome_da_conta>: Corrige permissões de uma conta cPanel específica.
+
 -all: Executa a correção de permissões em todas as contas cPanel do servidor.
+
 -v: Ativa a saída detalhada (verbose), mostrando os comandos executados.
 
 ## Exemplos
@@ -67,9 +70,13 @@ Este projeto está licenciado sob a Licença Pública Geral GNU v3.0.
 ## Contribuindo
 
 Faça um fork deste repositório.
+
 Crie uma branch para sua modificação (git checkout -b minha-modificacao).
+
 Faça suas alterações e commit (git commit -am 'Adicionando nova funcionalidade').
+
 Envie para o repositório remoto (git push origin minha-modificacao).
+
 Abra um pull request.
 
 ## Suporte
